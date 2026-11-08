@@ -1,0 +1,3 @@
+# Local caches and secrets
+.cache/
+.env
